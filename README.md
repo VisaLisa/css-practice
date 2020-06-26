@@ -4,3 +4,4 @@ Linked-css and app.css could be used together.
 
 inline.html is only used to illustrate inline CSS. This is not a commonly practiced method of CSS - do not use.
 
+Google Fonts (https://fonts.google.com/)  can be used to add fonts to a website
