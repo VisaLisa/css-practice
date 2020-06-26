@@ -31,8 +31,9 @@ h2 {
 }
 
 h3 {
+    color: red;
     font-size: x-large;
     text-transform: capitalize;
     font-weight: 400;
-    text-shadow: seagreen 20px -20px;
+    text-shadow: 5px 5px cyan;
 }
